@@ -10,7 +10,7 @@ The presentation slides for this algorithm were created for a university class a
 
 ## Presentation Preview
 
-![GWO Presentation Preview](path/to/your/presentation_preview.gif)
+![GWO Presentation Preview](Preview.gif)
 
 ## Algorithm Description
 
